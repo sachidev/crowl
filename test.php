@@ -32,7 +32,7 @@ $link = $driver->findElement(
 	// WebDriverBy::xpath('//a[@href="http://localhost/trends/2017/06/21/hello-world/"]')
 )->getAttribute("innerHTML");
 
-echo "test by goutam sachidev:";
+echo "test by goutam sachidev: hi";
 
 var_dump($link);
 
