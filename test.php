@@ -31,7 +31,7 @@ $link = $driver->findElement(
 	// WebDriverBy::linkText("Hello world!")
 	// WebDriverBy::xpath('//a[@href="http://localhost/trends/2017/06/21/hello-world/"]')
 )->getAttribute("innerHTML");
-echo "test by goutam:";
+echo "test by goutam sachidev:";
 var_dump($link);
 //echo "<pre>"; 
 //echo "test:\\n\\r".$link;die;
