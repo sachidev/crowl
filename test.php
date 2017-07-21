@@ -41,6 +41,7 @@ var_dump($link);
 //$link->click();
 // wait until the page is loaded
 //Bye
+//hi
 $driver->wait()->until(
     WebDriverExpectedCondition::titleContains('site-title')
 );
