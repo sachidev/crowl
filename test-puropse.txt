@@ -1,0 +1,8 @@
+points to done in git
+=======================
+how to rollback commit
+goutam
+how to check difference
+how to manage tree conflict
+ignore file
+tag
